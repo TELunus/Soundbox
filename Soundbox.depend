@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1358487595 source:c:\users\telunus\projects\soundbox\main.cpp
+	<iostream>
+	"windows.h"
+	<cmath>
+
+1369564716 source:q:\projects\soundbox\main.cpp
+	<iostream>
+	"windows.h"
+	<cmath>
+	"sound.h"
+
+1369563524 q:\projects\soundbox\sound.h
+	<iostream>
+	"windows.h"
+	<cmath>
+
+1369602464 source:q:\projects\soundbox\sound.cpp
+	"sound.h"
+
